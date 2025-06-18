@@ -1,0 +1,20 @@
+{
+  "name": "taskify",
+  "version": "1.0.0",
+  "description": "- Create a Task Management Application with drag-drop functionality between the category.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevin505/taskify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevin505/taskify/issues"
+  },
+  "homepage": "https://github.com/Nevin505/taskify#readme"
+}
