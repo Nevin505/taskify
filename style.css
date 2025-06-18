@@ -1,0 +1,7 @@
+.open {
+  display: flex !important;
+  border: 2px solid green;
+}
+.close {
+  display: none !important;
+}
